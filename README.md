@@ -1,7 +1,7 @@
 # jQuery Logo Downloadtip
 
 ### Example
-http://demo.jarnesjo.net/jquery-logo-downloadtip/
+[Demo](http://demo.jarnesjo.net/jquery-logo-downloadtip/)
 
 ## Description
 Simple plugin to allow users to download multiple logotype image types when they trying to grab low resolution logo.
