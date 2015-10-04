@@ -22,11 +22,10 @@
   ],
   "ignore": [
     "**/*",
-    "!img/**/*",
-    "!less/**/*",
-    "!css/main.css",
-    "!css/normalize.css",
-    "!index.html"
+    "!css/jquery-logo-downloadtip.css",
+    "!js/jquery-logo-downloadtip.js",
+    "!js/jquery-logo-downloadtip.min.js",
+    "!README.md"
   ],
   "keywords": [
     "logo",
