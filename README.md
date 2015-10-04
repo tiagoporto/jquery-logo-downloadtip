@@ -5,7 +5,7 @@ Simple plugin to allow users to download multiple logotype image types when they
 The project was created by [Nicklas Jarnesjö](http://www.jarnesjo.net/) after seeing [relogo](http://relogo.org/), but the [microformats](http://microformats.org/wiki/rel-logo) rejected the initiative, the project stayed stopped and I decided continues.
 
 ## Example
-[Demo](http://demo.jarnesjo.net/jquery-logo-downloadtip/)
+[Demo](http://tiagoporto.github.io/jquery-logo-downloadtip/)
 
 #### Declaim
 Tip-css structure from Twitter Bootstrap (http://twitter.github.com/bootstrap/)

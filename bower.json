@@ -25,7 +25,8 @@
     "!css/jquery-logo-downloadtip.css",
     "!js/jquery-logo-downloadtip.js",
     "!js/jquery-logo-downloadtip.min.js",
-    "!README.md"
+    "!bower.json"
+    "!README.md",
   ],
   "keywords": [
     "logo",
