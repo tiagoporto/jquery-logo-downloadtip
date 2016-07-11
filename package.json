@@ -1,0 +1,29 @@
+{
+  "name": "jquery-logo-downloadtip",
+  "version": "2.0.0",
+  "description": "Simple plugin to allow users to download multiple logotype image types when they trying to grab low resolution logo.",
+  "homepage": "https://github.com/tiagoporto/jquery-logo-downloadtip",
+  "keywords": [
+    "logo",
+    "downloadtip",
+    "plugin"
+  ],
+  "contributors": [{
+      "name": "Nicklas Jarnesjö",
+      "url": "http://www.jarnesjo.net/"
+    },
+    {
+      "name": "Tiago Porto",
+      "email": "tiago@tiagoporto.com",
+      "url": "http://tiagoporto.com"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tiagoporto/jquery-logo-downloadtip.git"
+  },
+  "main": "js/jquery-logo-downloadtip.min.js",
+  "dependencies": {
+    "jquery": ">=1.9.1"
+  },
+  "license": "MIT"
+}
