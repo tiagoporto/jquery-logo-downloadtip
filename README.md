@@ -23,4 +23,4 @@ Tip-css structure from Twitter Bootstrap (http://twitter.github.com/bootstrap/)
 
 ## License
 
-Project Name is released under the terms of the [license](LICENSE).
+jQuery Logo Downloadtip is released under the terms of the [license](LICENSE).
