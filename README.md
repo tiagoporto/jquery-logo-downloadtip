@@ -1,13 +1,13 @@
-# jQuery Logo Downloadtip
+# jQuery Logo Downloadtip ![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
+
+[![Release](https://img.shields.io/npm/v/jquery-logo-downloadtip.svg?style=flat-square&label=release)](https://github.com/tiagoporto/jquery-logo-downloadtip/releases)
+[![Downloads](https://img.shields.io/npm/dt/jquery-logo-downloadtip.svg?style=flat-square)](https://www.npmjs.com/package/jquery-logo-downloadtip)
+[![License](https://img.shields.io/github/license/tiagoporto/jquery-logo-downloadtip.svg)](https://raw.githubusercontent.com/tiagoporto/jquery-logo-downloadtip/master/LICENSE)
+[![Dependencies Status](https://img.shields.io/david/tiagoporto/jquery-logo-downloadtip.svg?style=flat-square)](https://david-dm.org/tiagoporto/jquery-logo-downloadtip)
 
 <!-- [![Build Status](https://travis-ci.org/tiagoporto/jquery-logo-downloadtip.svg)](https://travis-ci.org/tiagoporto/jquery-logo-downloadtip) -->
 <!-- [![Coverage Status](https://img.shields.io/coveralls/tiagoporto/jquery-logo-downloadtip.svg)](https://coveralls.io/github/tiagoporto/jquery-logo-downloadtip) -->
-[![Dependencies Status](https://david-dm.org/tiagoporto/jquery-logo-downloadtip.svg)](https://david-dm.org/tiagoporto/jquery-logo-downloadtip)
-[![devDependencies Status](https://david-dm.org/tiagoporto/jquery-logo-downloadtip/dev-status.svg)](https://david-dm.org/tiagoporto/jquery-logo-downloadtip#info=devDependencies)
-[![NPM Downloads](https://img.shields.io/npm/dt/jquery-logo-downloadtip.svg)](https://www.npmjs.com/package/jquery-logo-downloadtip)
-[![Github Release](https://img.shields.io/github/release/tiagoporto/jquery-logo-downloadtip.svg)](https://github.com/tiagoporto/jquery-logo-downloadtip/releases)
-[![Github Issues](https://img.shields.io/github/issues/tiagoporto/jquery-logo-downloadtip.svg)](https://github.com/tiagoporto/jquery-logo-downloadtip/issues)
-[![Github License](https://img.shields.io/github/license/tiagoporto/jquery-logo-downloadtip.svg)](https://raw.githubusercontent.com/tiagoporto/jquery-logo-downloadtip/master/LICENSE.md)
+<!-- [![devDependencies Status](https://img.shields.io/david/dev/tiagoporto/jquery-logo-downloadtip.svg?style=flat-square)](https://david-dm.org/tiagoporto/jquery-logo-downloadtip#info=devDependencies) -->
 
 
 ## Description
