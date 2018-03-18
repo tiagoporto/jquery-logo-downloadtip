@@ -9,8 +9,6 @@
 <!-- [![Coverage Status](https://img.shields.io/coveralls/tiagoporto/jquery-logo-downloadtip.svg)](https://coveralls.io/github/tiagoporto/jquery-logo-downloadtip) -->
 <!-- [![devDependencies Status](https://img.shields.io/david/dev/tiagoporto/jquery-logo-downloadtip.svg?style=flat-square)](https://david-dm.org/tiagoporto/jquery-logo-downloadtip#info=devDependencies) -->
 
-
-## Description
 Simple plugin to allow users to download multiple logotype image types when they trying to grab low resolution logo.
 The project was created by [Nicklas Jarnesjö](http://www.jarnesjo.net/) after seeing [relogo](http://relogo.org/), but the [microformats](http://microformats.org/wiki/rel-logo) rejected the initiative, the project stayed stopped and I decided continues.
 
@@ -18,8 +16,7 @@ The project was created by [Nicklas Jarnesjö](http://www.jarnesjo.net/) after s
 [Demo](http://tiagoporto.github.io/jquery-logo-downloadtip/)
 
 #### Declaim
-Tip-css structure from Twitter Bootstrap (http://twitter.github.com/bootstrap/)
-
+Tip-css structure from [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
 
 ## License
 
