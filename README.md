@@ -1,7 +1,7 @@
 # jQuery Logo Downloadtip ![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
 <p align="right">
-  <code>LIKED ? Leave a <a href="https://github.com/tiagoporto/jquery-logo-downloadtip">⭐</a> : <a href="https://github.com/tiagoporto/jquery-logo-downloadtip/issues">😞</a></code>
+  <code>LIKED ? Leave a <a href="https://github.com/tiagoporto/jquery-logo-downloadtip/stargazers">⭐</a> : <a href="https://github.com/tiagoporto/jquery-logo-downloadtip/issues">😞</a></code>
 </p>
 
 [![Release](https://img.shields.io/npm/v/jquery-logo-downloadtip.svg?style=flat-square&label=release)](https://github.com/tiagoporto/jquery-logo-downloadtip/releases)
