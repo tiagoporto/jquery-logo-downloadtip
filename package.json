@@ -8,6 +8,10 @@
     "downloadtip",
     "plugin"
   ],
+  "scripts": {
+    "tag": "git tag v$npm_package_version",
+    "postpublish": "npm run tag && git push --tags"
+  },
   "contributors": [
     {
       "name": "Nicklas Jarnesjö",
