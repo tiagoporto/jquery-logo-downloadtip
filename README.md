@@ -1,3 +1,6 @@
+> This package has been deprecated. Use logo-downloadtip instead, see [github.com/tiagoporto/logo-downloadtip](https://github.com/tiagoporto/logo-downloadtip).
+
+
 # jQuery Logo Downloadtip ![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
 <p align="right">
